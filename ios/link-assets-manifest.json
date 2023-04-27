@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FONTSPRINGDEMO-ProximaNovaExCnRegular.otf",
+      "sha1": "28d04eb938c05b5158a69a709682d4f0517a59ab"
+    },
+    {
+      "path": "src/assets/fonts/Milliard-Bold.otf",
+      "sha1": "cad1e016262c5ddfd2677c4b899e08e7158604c4"
+    },
+    {
+      "path": "src/assets/fonts/Milliard-Medium.otf",
+      "sha1": "80b35e03febf257919dc801eb07f808122055f8e"
+    }
+  ]
+}
